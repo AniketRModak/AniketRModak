@@ -2,6 +2,8 @@
 <h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently studying in **TY-BSCIT**
+  
+- 🔭 I’m currently working on **combine Ai**
 
 - 🌱 I’m currently learning **multiple thing in college and react**
 
